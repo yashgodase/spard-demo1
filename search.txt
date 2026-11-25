@@ -1,1 +1,2 @@
 ﻿Search bar
+Added search filter
